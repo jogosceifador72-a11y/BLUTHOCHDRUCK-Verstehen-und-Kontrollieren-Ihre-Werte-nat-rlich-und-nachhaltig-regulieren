@@ -1,0 +1,6 @@
+{
+  "name": "Bluthochdruck: Verstehen & Kontrollieren",
+  "description": "Offizielle Verkaufsseite für das E-Book Bluthochdruck: Verstehen und Kontrollieren von Karin Zeit mit 4-Wochen-Aktionsplan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
